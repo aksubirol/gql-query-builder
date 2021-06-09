@@ -1,0 +1,16 @@
+{
+  "name": "gql-query-builder",
+  "version": "1.0.0",
+  "description": "Graphql Query Builder Library",
+  "main": "gql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/atheneumpartners/gql-query-builder.git"
+  },
+  "author": "Birol Aksu <birol.aksu@atheneum-partners.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/atheneumpartners/gql-query-builder#readme"
+}
